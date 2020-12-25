@@ -14,3 +14,6 @@ func runAplication() {
 func main() {
 	runAplication()
 }
+
+//Defer adalah sebuah function yang bisa dijadwalkan pengeksekusiannnya setelah sebuah function selesai di eksekusi
+//Selalu dieksekusi walaupun terjadi error di fuction yang dieksekusi

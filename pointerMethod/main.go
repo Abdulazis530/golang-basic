@@ -8,6 +8,7 @@ type Man struct {
 
 func (m *Man) Married() {
 	m.Name = "Mr." + m.Name
+
 }
 
 func main() {
